@@ -1,0 +1,65 @@
+D0_pg(meV)
+10.0
+
+Nkz
+1
+
+Nkpoints
+200
+
+Nf
+80
+
+kx
+0.717332803444
+
+ky
+1.90637056375
+
+gammacdw
+0.03
+
+gammae(meV)
+3.0
+
+Q 
+1.4347
+
+wLower(meV)
+-100.0
+
+wUpper(meV)
+100.0
+
+num_k_slices
+106
+
+kxmin
+0.167333
+
+kxmax
+1.167333
+
+kymin
+1.728797
+
+kymax
+2.051658
+
+
+
+####comments
+
+For Norman bandstructure??
+####for kx,ky at gap opening point for 18 degree cut
+0.768832803444
+1.92299793531
+
+####for kx,ky at Fermi surface for 18 degree cut
+0.717332803444
+1.90637056375
+
+####Q for 11.3 degree nesting
+1.6828
+##for 18 nesting
+1.4347
