@@ -21,8 +21,8 @@ calculate pseudogap selfenergy at w=0 and all k points
 
 
 ####MPI problem
-don't be an idiot. mpirun -np 24 a.out will run the code on only one node
-which can only have up to 8 cores on corn and 24 cores on barely! 
+mpirun -np 24 a.out will run the code on only one node
+which can only have up to 8 cores on corn and 24 cores on barley! 
 
 Also remember to submit a job to barley specify 48 in script.sh and run:
 qsub -pe orte 48 script.sh
